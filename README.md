@@ -55,6 +55,40 @@ Now that you have successfully run the app, let's modify it.
 
    For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
 
+## Step 4: Installing the App Permanently
+To install the app on your physical device so it remains after disconnecting from the PC, follow these steps:
+
+For Android
+1. Connect your Android device to your computer via USB.
+
+2. Ensure USB debugging is enabled on your Android device.
+
+3. Run the following command from the root of your React Native project:
+
+```bash 
+# using npm
+npm run android
+
+# OR using Yarn
+yarn android
+```
+
+4. Once the app is installed, you can disconnect the USB cable. The app should remain installed and accessible from your device's app drawer.
+
+For iOS
+1. Connect your iOS device to your computer.
+
+2. Open the project in Xcode by running:
+
+```bash
+open ios/YourProjectName.xcworkspace
+```
+3. In Xcode, select your connected device as the target.
+
+4. Click the "Run" button (or press <kbd>Cmd ⌘</kbd> + <kbd>R</kbd>) to build and install the app on your device.
+
+5. Once the app is installed, you can disconnect the device. The app should remain installed and accessible from your device's home screen.
+
 ## Congratulations! :tada:
 
 You've successfully run and modified your React Native App. :partying_face:
