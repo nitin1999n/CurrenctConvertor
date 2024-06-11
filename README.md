@@ -91,7 +91,11 @@ open ios/YourProjectName.xcworkspace
 
 ## Congratulations! :tada:
 
-You've successfully run and modified your React Native App. :partying_face:
+You've successfully run and modified your React Native App. :🥳:
+
+![currencyConvertor2](https://github.com/nitin1999n/CurrenctConvertor/assets/69898944/dcbbb089-f12e-4803-b7b2-be40314a659f)
+![currencyConvertor](https://github.com/nitin1999n/CurrenctConvertor/assets/69898944/09179ad2-c02b-4646-9e9f-c2845b8fc27d)
+
 
 ### Now what?
 
